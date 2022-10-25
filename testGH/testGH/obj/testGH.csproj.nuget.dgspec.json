@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\testGH\\testGH\\testGH.csproj": {}
+    "F:\\ebat\\JustTesting\\testGH\\testGH\\testGH.csproj": {}
   },
   "projects": {
-    "F:\\testGH\\testGH\\testGH.csproj": {
+    "F:\\ebat\\JustTesting\\testGH\\testGH\\testGH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\testGH\\testGH\\testGH.csproj",
+        "projectUniqueName": "F:\\ebat\\JustTesting\\testGH\\testGH\\testGH.csproj",
         "projectName": "testGH",
-        "projectPath": "F:\\testGH\\testGH\\testGH.csproj",
+        "projectPath": "F:\\ebat\\JustTesting\\testGH\\testGH\\testGH.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\testGH\\testGH\\obj\\",
+        "outputPath": "F:\\ebat\\JustTesting\\testGH\\testGH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
