@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("LOL");
             Console.WriteLine("PPZ");
+            Console.WriteLine("ddd");
         }
     }
 }
